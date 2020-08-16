@@ -1,5 +1,5 @@
 ### Hi there, I'm Daniel 👋
-
+<img alt="Cool cool." src="https://github.com/TwiggyBuffalo/twiggybuffalo/blob/master/cool.gif?raw=true" width="100%">
 <!--
 **TwiggyBuffalo/twiggybuffalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
