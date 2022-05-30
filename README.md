@@ -1,6 +1,6 @@
-# Hi 👋 My name is Daniel
+# Hi, I'm Daniel
 
-## Software Engineer @TAKEALOT
+### Software Engineer @TAKEALOT
 
 I love tech and am keen as a bean to collaborate with you so please feel free to get in touch via my website linked below or any of my socials. In my free time you can find me in the mountains riding my dirt bike or grabbing a cold one with my mates. Cheers 🍻
 
