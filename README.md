@@ -5,7 +5,7 @@
 I love tech and am keen as a bean to collaborate with you so please feel free to get in touch via my website linked below or any of my socials. In my free time you can find me in the mountains riding my dirt bike or grabbing a cold one with my mates. Cheers 🍻
 
 - 🌍  I'm based in Cape Town, South Africa
-- 🖥️  See my portfolio at [twiggybuffalo.dev](http://twiggybuffalo.dev)
+- 🖥️  See my portfolio at [twiggybuffalo.com](http://twiggybuffalo.com)
 - 🚀  I'm currently working on [Takealot | South Africa’s largest, most innovative ecommerce retailer](http://takealot.com)
 - 🧠  I'm learning Web3
 - 🤝  I'm open to collaborating on anything interesting
