@@ -6,7 +6,7 @@ I love tech and am keen as a bean to collaborate with you so please feel free to
 
 - 🌍  I'm based in Cape Town, South Africa
 - 🖥️  See my portfolio at [twiggybuffalo.com](http://twiggybuffalo.com)
-- 🚀  I'm currently working on [Takealot | South Africa’s largest, most innovative ecommerce retailer](http://takealot.com)
+- 🚀  I'm currently working at [Mercedes-Benz SA](https://www.mercedes-benz.co.za)
 - 🤝  I'm open to collaborating on anything interesting
 - ⚡  Ask me about cars, bikes or planes.
 
